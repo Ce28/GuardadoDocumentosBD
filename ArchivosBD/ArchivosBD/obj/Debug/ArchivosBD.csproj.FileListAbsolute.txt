@@ -1,0 +1,8 @@
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\bin\Debug\ArchivosBD.exe
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\bin\Debug\ArchivosBD.pdb
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ArchivosBD.Form1.resources
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ArchivosBD.Properties.Resources.resources
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ArchivosBD.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ArchivosBD.exe
+C:\Users\Christian\Desktop\ArchivosBD\ArchivosBD\obj\Debug\ArchivosBD.pdb
